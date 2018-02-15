@@ -1,6 +1,5 @@
 # Udacity-Data-Analyst-Nanodegree
 A collection of my projects for Udacity  [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002).
-_____________________________________________________________________________________________________________
 
 ## Courses
 
@@ -8,7 +7,6 @@ ________________________________________________________________________________
 * Introduction to Data Analysis with SQL
 * Practical Statistics
 * Exploratory Data Analysis with R
-_____________________________________________________________________________________________________________
 
 ## Projects
 
