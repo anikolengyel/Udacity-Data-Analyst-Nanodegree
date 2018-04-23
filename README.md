@@ -15,3 +15,5 @@ A collection of my projects for Udacity  [Data Analyst Nanodegree](https://www.u
 * Project 3: Analyze A/B Test Results with Python – E-commerce Website Data
 * Project 4: Test a Perceptual Phenomenon with Python – Analyzing the Stroop Effect
 * Project 5: Explore and Summarize White Wine Data with R
+* Project 6: Data Wrangling with Python - WeRateDogs Twitter account data
+* Project 7: Data Storytelling with Tableau - Titaninc database
